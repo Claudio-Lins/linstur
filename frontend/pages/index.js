@@ -21,7 +21,7 @@ export default function Home() {
             LinsTur.
           </h1>
           <h2 className="text-2xl text-black mt-4">
-            Porque. Viajer é preciso!
+            Porque. Viajer é preciso!!!!!
           </h2>
         </div>
       </main>
