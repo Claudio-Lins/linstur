@@ -1,6 +1,4 @@
 import Head from 'next/head';
-import Link from 'next/link';
-import Image from 'next/image';
 import { fetchAPITempoLisbon } from '../lib/api-fetch';
 import TempoLisbon from '../components/TempoLisbon';
 
