@@ -21,7 +21,7 @@ export default function Home({ tempoLisbon }) {
             content="Site destinado ao Turismo em Portugal"
           />
         </Head>
-        <div className='bg-gray-50 opacity-90 rounded-md flex items-center justify-center p-10 md:w-1/4'>
+        <div className='bg-gray-50 opacity-90 rounded-md flex items-center justify-center mb-8 px-14 py-4 md:p-10 md:w-1/4'>
           <Hero />
         </div>
         <main className="flex items-center justify-center md:px-40 md:py-16 text-center rounded-lg">
