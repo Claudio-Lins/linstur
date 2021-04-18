@@ -6,7 +6,12 @@ module.exports = {
     extend: {},
   },
   variants: {
-    extend: {},
+    extend: {
+      backgroundColor: ['active'],
+      divideColor: ['group-hover'],
+      backgroundColor: ['group-focus'],
+      scale: ['focus-within'],
+    },
   },
   plugins: [],
-}
+};
