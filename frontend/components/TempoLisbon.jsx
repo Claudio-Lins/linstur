@@ -13,7 +13,7 @@ export default function TempoLisbon({ tempoLisbon }) {
             <Sol />
           </div>
           <div className="w-1/2 font-bold text-4xl">
-            {/* {Math.floor(tempoLisbon['main']['temp'])}º */}
+          <span> {Math.floor(tempoLisbon['main']['temp'])}º</span>
           </div>
         </div>
 
